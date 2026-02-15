@@ -3,3 +3,4 @@ used Technologies
 C#.net - WebAPI
 TypeScript - Angular 
 Database - Postgres
+Authentication - JWT Token 
