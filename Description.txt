@@ -1,4 +1,5 @@
 this is Task Management application 
 used Technologies
-C#.net WebAPI
-TypeScript Angular 
+C#.net - WebAPI
+TypeScript - Angular 
+Database - Postgres
